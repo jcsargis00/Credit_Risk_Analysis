@@ -64,7 +64,7 @@ confusion matrix
 #
 imbalanced classification report
 #
-!clclass[](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/clusterclass.PNG)
+![clclass](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/clusterclass.PNG)
 #
 #### SMOTEENN Algorithm to Predict Credit Risk
 #### Ensemble Classifiers to Predict Credit Risk
