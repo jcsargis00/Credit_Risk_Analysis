@@ -28,8 +28,6 @@ imbalanced classification report
 #
 ![ROSclass](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/randomclass.PNG)
 #
-* The dataset was then over and undersampled (combination of the techniques) using the SMOTEENN algorithm. 
-#
 #### SMOTE
 #
 ![sm](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/smote.PNG)
@@ -84,7 +82,7 @@ imbalanced classification report
 #
 ![clclass](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/ennclass.PNG)
 #
-#### Ensemble Classifiers to Predict Credit Risk
+### Ensemble Classifiers to Predict Credit Risk
 #### Balanced Random Forest Classifier
 #
 Balanced Random Forest
@@ -115,7 +113,7 @@ Easy Ensemble Classifier
 #
 accuracy score
 #
-!eaacc](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/eaacc.PNG)
+![eaacc](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/eaacc.PNG)
 #
 confusion matrix
 #
