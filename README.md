@@ -137,4 +137,11 @@ imbalanced classification report
 #
 ### Summary
 #
+When analyzing results of supervised machine learning models, it is important to consider the problem trying to be solved, in addition to the results of the models.  For example, when a model is used for medical testing, it is better to have too many false positives, than false negatives.  It is better to retest and find a person is not sick, than to send a sick person away with a false negative.  For our study, we are looking at loan risk.  It is better to have false negatives, than false positives, because false positive would make the majority of loans look at risk, when the reverse has been found to be true over years and years of looking at loan risk.  Below is a table of the results of each model on the data set.
 ![algscores](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/algscores.PNG)
+We will look more carefully at high risk results.  For high risk prediction:
+The most accurate model was the Easy Ensemble Cluster (93% accuracy, 9% precision, 92% recall, 16.72% F1.
+)
+Next is Balanced Random Forest, followed by SMOTE, SMOTEENN, RandomOverSampler and ClusterCentroids.
+A summary of the results is shown in the table below ranking the most accurate models for high risk loan prediction.
+![ranking](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/ranking.PNG)
