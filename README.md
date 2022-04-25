@@ -32,19 +32,19 @@ imbalanced classification report
 #
 #### SMOTE
 #
-![]()
+![sm](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/smote.PNG)
 #
 accuracy score
 #
-![]()
+![smacc]((https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/smoteacc.PNG)
 #
 confusion matrix
 #
-![]()
+![smcm](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/smotecm.PNG)
 #
 imbalanced classification report
 #
-![]()
+![smclass](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/smoteclass.PNG)
 #
 * BalancedRandomForestClassifier and EasyEnsembleClassifier, the machine learning models that reduce bias,  were used to predict credit risk. 
 #
