@@ -70,7 +70,7 @@ imbalanced classification report
 #
 SMOTEENN
 #
-![cl](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/enn.PNG)
+![cl](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/enn2.PNG)
 #
 accuracy score
 #
