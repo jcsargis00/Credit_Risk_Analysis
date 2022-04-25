@@ -106,7 +106,7 @@ imbalanced classification report
 Features sorted in descending order by feature importance
 #
 ![brimp](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/brimp.PNG)
-![brimp2](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/brimp2.PNG)
+#
 #### Easy Ensemble Classifier Algorithm
 #
 Easy Ensemble Classifier
