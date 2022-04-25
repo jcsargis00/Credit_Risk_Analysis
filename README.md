@@ -48,21 +48,23 @@ imbalanced classification report
 #
 * BalancedRandomForestClassifier and EasyEnsembleClassifier, the machine learning models that reduce bias,  were used to predict credit risk. 
 #
-and ClusterCentroids algorithms
+#### ClusterCentroids algorithms
 #
-![]()
+ClusterCentroids
+#
+![cl](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/cluster.PNG)
 #
 accuracy score
 #
-![]()
+![clacc](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/clusteracc.PNG)
 #
 confusion matrix
 #
-![]()
+![clcm](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/clustercm.PNG)
 #
 imbalanced classification report
 #
-![]()
+!clclass[](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/clusterclass.PNG)
 #
 #### SMOTEENN Algorithm to Predict Credit Risk
 #### Ensemble Classifiers to Predict Credit Risk
