@@ -66,5 +66,22 @@ imbalanced classification report
 #
 ![clclass](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/clusterclass.PNG)
 #
-#### SMOTEENN Algorithm to Predict Credit Risk
+#### SMOTEENN Algorithm to Predict Credit Risk (combination over- and under-sampling algorithm)
+#
+SMOTEENN
+#
+![cl](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/enn.PNG)
+#
+accuracy score
+#
+![clacc](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/ennacc.PNG)
+#
+confusion matrix
+#
+![clcm](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/enncm.PNG)
+#
+imbalanced classification report
+#
+![clclass](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/ennclass.PNG)
+#
 #### Ensemble Classifiers to Predict Credit Risk
