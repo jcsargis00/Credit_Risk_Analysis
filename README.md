@@ -85,3 +85,39 @@ imbalanced classification report
 ![clclass](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/ennclass.PNG)
 #
 #### Ensemble Classifiers to Predict Credit Risk
+#### Balanced Random Forest Classifier
+#
+Balanced Random Forest
+#
+![br](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/br.PNG)
+#
+accuracy score
+#
+![bracc](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/bracc.PNG)
+#
+confusion matrix
+#
+![brcm](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/brcm.PNG)
+#
+imbalanced classification report
+#
+![brclass](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/brclass.PNG)
+#
+#### Easy Ensemble Classifier Algorithm
+#
+Easy Ensemble Classifier
+#
+![ea](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/ea.PNG)
+#
+accuracy score
+#
+!eaacc](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/eaacc.PNG)
+#
+confusion matrix
+#
+![eacm](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/eacm.PNG)
+#
+imbalanced classification report
+#
+![eaclass](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/eaclass.PNG)
+#
