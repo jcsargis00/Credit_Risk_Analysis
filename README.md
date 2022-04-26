@@ -147,4 +147,4 @@ The most accurate model was the Easy Ensemble Cluster (93% accuracy, 9% precisio
 ![ranking](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/ranking.PNG)
 #
 #### Model Recommendation
-The EasyEnsembleClassifer model yielded the best results with an accuracy rate of 93.2% and a precision rate of 9% for prediction "High Risk" candidates. The result for predicting "Low Risk" yielded the best results with a sensitivity rate of 94% and an F1 score of 96.9% for prediction of "Low Risk" candidates. With the best results of all 6 models for both the "High Risk" and "Low Risk" classes, I would recommend the EasyEnsembleClassifier model over the others to perform this type of analysis.
+The EasyEnsembleClassifer model yielded the best results with an accuracy rate of 93.2% and a precision rate of 9% for prediction of "High Risk" candidates. Prediction of "Low Risk" candidates also yielded the best results, with a sensitivity rate of 94% and an F1 score of 96.9%. With the best results of all 6 models for both the "High Risk" and "Low Risk" classes, I would recommend the Easy Ensemble Classifier model over the others to perform this type of analysis.
