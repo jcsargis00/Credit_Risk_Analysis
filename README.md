@@ -141,8 +141,7 @@ When analyzing results of supervised machine learning models, it is important to
 #
 ![algscores](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/algscores.PNG)
 #
-We will look more carefully at high risk results.  For high risk prediction:
-The most accurate model was the Easy Ensemble Classifier (93% accuracy, 9% precision, 92% recall, 16.72% F1).  Next, is Balanced Random Forest, followed by SMOTE, SMOTEENN, Random Over Sampler and Cluster Centroids. A summary of the results is shown in the table below ranking the most accurate models for high risk loan prediction.
+We will look more carefully at high risk results.  For high risk prediction the most accurate model was the Easy Ensemble Classifier (93% accuracy, 9% precision, 92% recall, 16.72% F1).  Next, is Balanced Random Forest, followed by SMOTE, SMOTEENN, Random Over Sampler and Cluster Centroids. A summary of the results is shown in the table below ranking the most accurate models for high risk loan prediction.
 #
 ![ranking](https://github.com/jcsargis00/Credit_Risk_Analysis/blob/main/images/ranking.PNG)
 #
